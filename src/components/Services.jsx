@@ -1,8 +1,9 @@
 export default function Services() {
   const services = [
-    "Process Design & FEED",
+    "Basic Engineering & FEED",
+    "Detailed Engineering",
     "HAZOP & Process Safety",
-    "Reactor Scale-Up & Tech Transfer",
+    "Project Cost reduction","Process Equipment design",
     "Aspen Simulation & Equipment Sizing",
     "Utilities & Energy Optimization",
     "Automation & Digitalization"

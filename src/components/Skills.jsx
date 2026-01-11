@@ -52,6 +52,17 @@ export default function Skills() {
             </ul>
           </div>
         </div>
+        <h2 className="text-4xl font-extrabold text-center text-gray-800 mb-14 mt-20">Custom Website design</h2>
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-10">
+          <div className="bg-white p-8 rounded-xl shadow-lg hover:shadow-xl transition-shadow duration-300">
+            <ul className="list-disc list-inside space-y-3 text-gray-700">
+              <li>we design website for your Organisation</li>
+              <li>Improve the existing web pages UI/UX</li>
+              <li>Offer & maintain Static and Dynamic Websites</li>
+            </ul>
+          </div>
+        </div>
+
       </div>
     </section>
   )

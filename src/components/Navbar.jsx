@@ -10,7 +10,7 @@ export default function Navbar() {
   return (
     <nav className="flex justify-between items-center px-8 py-4 bg-white shadow">
       <h1 className="text-2xl font-bold">
-        ScaleChem <span className="text-yellow-600">Engineering</span>
+        ScaleChem <span className="text-yellow-600">Engineering Pvt. Ltd</span>
       </h1>
 
       {/* Desktop Menu */}
